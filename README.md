@@ -1,1 +1,2 @@
 # chatbot_medic_ai
+#pip install ctransformers==0.2.5 #sentence-transformers==2.2.2 #pinecone-client langchain==0.0.225 flask

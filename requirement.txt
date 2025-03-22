@@ -1,15 +1,5 @@
-1. ctransformer :0.2.5
-       some transformer based library which is helpful for llm (large language models) written in ctransformer
-2.  sentence transformer :2.2.2
-       need for embedding we use by creating chucks
-
-3. pinecon-client
-
-4. langchain:0.0.225
-
-5.  flask : for user interface and web devlopment 
-
-how to sync with git model
-       
-    
-   
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client
+langchain==0.0.225
+flask
